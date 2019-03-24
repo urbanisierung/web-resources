@@ -2,4 +2,4 @@
 
 ## Image manipulation
 
-* [https://www.remove.bg/](remove bg)
+* [remove bg](https://www.remove.bg/)

@@ -13,6 +13,10 @@
 * [Nuclino](https://www.nuclino.com/)
 * [Notion](https://www.notion.so)
 
+## Music
+
+* [Soul](https://soul.dev/)
+
 ## Image manipulation
 
 * [remove bg](https://www.remove.bg/)

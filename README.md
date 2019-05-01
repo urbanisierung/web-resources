@@ -4,6 +4,10 @@
 
 * [Superhuman](https://superhuman.com/)
 
+## CI/CD
+
+* [Netlify](https://www.netlify.com)
+
 ## Designing
 
 * [Figma](https://www.figma.com/)

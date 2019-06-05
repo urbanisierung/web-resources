@@ -3,6 +3,7 @@
 ## E-Mail
 
 * [Superhuman](https://superhuman.com/)
+* [Substack](https://substack.com/) - paid newsletters
 
 ## CI/CD
 

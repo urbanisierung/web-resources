@@ -30,6 +30,7 @@
 ## Music
 
 * [Soul](https://soul.dev/)
+* [Sonic PI](https://sonic-pi.net/)
 
 ## Image manipulation
 

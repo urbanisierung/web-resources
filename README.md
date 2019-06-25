@@ -39,3 +39,7 @@
 ## Video editing
 
 * [OpenShot](https://www.openshot.org/)
+
+## Scree recording
+
+* [Kap](https://getkap.co/)

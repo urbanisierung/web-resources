@@ -17,10 +17,18 @@
 
 * [Flutter](https://flutter.dev/)
 
+### API Request builder
+* [Getd](https://getd.io/)
+* [Postwoman](https://postwoman.io/)
+
 ## Knowledge Base Tools
 
 * [Nuclino](https://www.nuclino.com/)
 * [Notion](https://www.notion.so)
+
+## Presentations
+
+* [Projector](https://projector.com/)
 
 ## JavaScript Frameworks
 

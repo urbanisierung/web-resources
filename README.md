@@ -21,6 +21,14 @@
 * [Getd](https://getd.io/)
 * [Postwoman](https://postwoman.io/)
 
+### Test API
+* [HTTP bin](https://httpbin.org)
+
+### JavaScript Frameworks
+
+* [Relay](https://facebook.github.io/relay/)
+* [Storybook](https://storybook.js.org/)
+
 ## Knowledge Base Tools
 
 * [Nuclino](https://www.nuclino.com/)
@@ -30,10 +38,7 @@
 
 * [Projector](https://projector.com/)
 
-## JavaScript Frameworks
 
-* [Relay](https://facebook.github.io/relay/)
-* [Storybook](https://storybook.js.org/)
 
 ## Music
 

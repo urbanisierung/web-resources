@@ -21,9 +21,12 @@
 
 * [Figma](https://www.figma.com/)
 
-## Decentralized trading
+## Decentralization
 
-* [DDEX](https://ddex.io/)
+* Trading: [DDEX](https://ddex.io/)
+* [Blockstack](https://blockstack.org)
+* [Office Suite](https://arcaneoffice.com/)
+* Investing: [Stokr](https://stokr.io)
 
 ## Dashboards
 
@@ -48,6 +51,7 @@
 ## Programming Languages
 
 * [V](https://vlang.io/)
+* [NestJS](https://nestjs.com/)
 
 ## Knowledge Base Tools
 

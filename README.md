@@ -1,3 +1,5 @@
+be like [Awseome](https://github.com/sindresorhus/awesome)
+
 # webapps
 
 ## E-Mail

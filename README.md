@@ -30,9 +30,10 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 * [Office Suite](https://arcaneoffice.com/)
 * Investing: [Stokr](https://stokr.io)
 
-## Dashboards
+## Analytics / Dashboards
 
 * [Graphy](https://graphyapp.com/)
+* Self-hosted analytics tool: [Ackee](https://ackee.electerious.com/)
 
 ## Development
 

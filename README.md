@@ -74,6 +74,7 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 ## Image manipulation
 
 * [remove bg](https://www.remove.bg/)
+* [Krita](https://krita.org/en/)
 
 ## Video editing
 

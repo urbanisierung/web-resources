@@ -27,6 +27,10 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 
 * [Figma](https://www.figma.com/)
 
+### Icons
+
+* [Shape](https://shape.so/)
+
 ## Decentralization
 
 * Trading: [DDEX](https://ddex.io/)

@@ -79,6 +79,7 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 
 * [Soul](https://soul.dev/)
 * [Sonic PI](https://sonic-pi.net/)
+* [Strike free music](https://strikefreemusic.com/)
 
 ## Image manipulation
 

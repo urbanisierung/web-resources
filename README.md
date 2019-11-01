@@ -108,3 +108,7 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 ## Interviewing
 
 * [Interviewing.io](https://interviewing.io/)
+
+## Resources
+
+* [Free for devs](https://free-for.dev/#/)

@@ -23,6 +23,7 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 
 * [Netlify](https://www.netlify.com)
 * [CodeChecks](https://www.codechecks.io/)
+* [Superblocks](https://superblocks.com/)
 
 ## Designing
 
@@ -47,6 +48,7 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 ## Development
 
 * [Flutter](https://flutter.dev/)
+* [Carbon: Beautiful Code Snippets](https://carbon.now.sh/)
 
 ### API Request builder
 * [Getd](https://getd.io/)

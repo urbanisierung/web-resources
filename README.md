@@ -124,3 +124,16 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 ## No Code
 
 * [No Code Tech](https://www.nocode.tech/)
+
+## Blockchain
+
+* [3Box](https://3box.io/)
+* [MyCrypto](https://beta.mycrypto.com/home)
+
+## Chat
+
+* [Cabal: P2P Chat](https://cabal.chat/)
+
+## Workflow
+
+* [n8n - open source zapier alternative](https://n8n.io/)

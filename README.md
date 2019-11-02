@@ -113,3 +113,4 @@ be like [Awseome](https://github.com/sindresorhus/awesome)
 ## Resources
 
 * [Free for devs](https://free-for.dev/#/)
+* [Learn Web3](https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/)

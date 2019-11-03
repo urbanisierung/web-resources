@@ -4,8 +4,6 @@
 
 ## Productivity
 
-Tools I use regularly
-
 - [HackMD](https://hackmd.io/) - collaborative markdown
 - [Notion](https://www.notion.so) - wiki, notes, todos (alternatives: [Nuclino](https://www.nuclino.com/), [Mochi](https://mochi.cards), [Archbee](https://archbee.io))
 - [Command E](https://getcommande.com/) - search your cloud content

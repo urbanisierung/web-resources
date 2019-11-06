@@ -8,6 +8,11 @@
 - [Notion](https://www.notion.so) - wiki, notes, todos (alternatives: [Nuclino](https://www.nuclino.com/), [Mochi](https://mochi.cards), [Archbee](https://archbee.io))
 - [Command E](https://getcommande.com/) - search your cloud content
 - [Cabal](https://cabal.chat/) - nice slack alternative, p2p chat
+- Local notepad in browser - not a real web resource but an easy way to create notes quickly. Add bookmark with the following link to your browser:
+
+```bash
+data:text/html, <html contenteditable <head ><title>Notepad</title></head></html>
+```
 
 ### Waiting list
 

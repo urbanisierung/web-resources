@@ -29,6 +29,7 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [remove bg](https://www.remove.bg/) - remove backgrounds from images
 - [Kap](https://getkap.co/) - screen recording
 - [Hemingway](http://www.hemingwayapp.com/) - make writing bold and clear
+- [Glyphy](https://www.glyphy.io/) - copy glyphs with ease
 
 ### Music
 

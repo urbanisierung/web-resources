@@ -49,6 +49,7 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [Open Source Mac Apps](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md) - a curated list of open source mac apps
 - [No Code Tech](https://www.nocode.tech/) - tools and services to create stuff without coding
 - [n8n](https://n8n.io/) - open source zapier alternative
+- [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 ### Web3
 

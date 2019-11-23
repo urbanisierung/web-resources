@@ -30,6 +30,7 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [Kap](https://getkap.co/) - screen recording
 - [Hemingway](http://www.hemingwayapp.com/) - make writing bold and clear
 - [Glyphy](https://www.glyphy.io/) - copy glyphs with ease
+- [Colors and Fonts](https://www.colorsandfonts.com/) - curated library of colors and fonts
 
 ### Music
 

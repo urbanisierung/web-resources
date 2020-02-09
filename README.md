@@ -52,6 +52,7 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [No Code Tech](https://www.nocode.tech/) - tools and services to create stuff without coding
 - [n8n](https://n8n.io/) - open source zapier alternative
 - [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+- [Shell-Check](https://www.shellcheck.net/) - checks your shell scripts and gives tips to improve it
 
 ### Web3
 

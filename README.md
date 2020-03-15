@@ -33,6 +33,9 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [Colors and Fonts](https://www.colorsandfonts.com/) - curated library of colors and fonts
 - [TechLetter App](https://techletter.app/) - create beautiful html newsletters with markdown
 - [Unscreen](https://www.unscreen.com/) - remove video background
+- [Heroicons](https://heroicons.dev/) - great icon colldection
+- [OpenPeeps](https://www.openpeeps.com/) - hand drawn illustration library
+- [mixkit](https://mixkit.co/free-stock-video/) - free stock videos and music
 
 ### Music
 

@@ -36,6 +36,7 @@ data:text/html, <html contenteditable <head ><title>Notepad</title></head></html
 - [Heroicons](https://heroicons.dev/) - great icon colldection
 - [OpenPeeps](https://www.openpeeps.com/) - hand drawn illustration library
 - [mixkit](https://mixkit.co/free-stock-video/) - free stock videos and music
+- [Device sketches](https://facebook.design/devices) - devices
 
 ### Music
 
